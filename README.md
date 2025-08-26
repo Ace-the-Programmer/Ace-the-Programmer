@@ -43,7 +43,6 @@
 
 ---
 
-## 😆 Fun Section
 <p align="center">
   <img src="gohan/beast-gohan.gif" alt="Beast Gohan GIF" width="500"/>
 </p>
