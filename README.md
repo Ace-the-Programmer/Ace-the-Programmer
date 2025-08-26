@@ -45,8 +45,9 @@
 
 ## 😆 Fun Section
 <p align="center">
-  <img src="https://media.tenor.com/n0m5FnYAmEYAAAAC/beastgohan-gohanbeast.gif" alt="Beast Gohan GIF" width="500"/>](https://media.tenor.com/n0m5FnYAmEYAAAAC/beastgohan-gohanbeast.gif>
+  <img src="https://media.tenor.com/n0m5FnYAmEYAAAAC/beastgohan-gohanbeast.gif" alt="Beast Gohan GIF" width="500"/>
 </p>
+
 
 <!-- You can add GIFs, memes, or jokes here -->
 <!-- Example: ![fun gif](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) -->
