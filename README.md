@@ -7,8 +7,10 @@
 
 ## 👋 Introduction
 - Hi, I'm **AcE**  
-- I'm learning the basics of **HTML, CSS, JavaScript** and exploring some libraries and frameworks  
-- My current tech stack includes: **HTML, CSS, JS, PHP, C++, Java, Python, Figma, XAMPP**  
+- I'm currently learning the basics of **HTML, CSS, and JavaScript**  
+- Exploring other languages and tools while building fun, random projects  
+- Always leveling up my coding + design skills 🚀  
+
 
 ---
 
