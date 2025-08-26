@@ -45,7 +45,7 @@
 
 ## 😆 Fun Section
 <p align="center">
-  <img src="https://media.tenor.com/n0m5FnYAmEYAAAAC/beastgohan-gohanbeast.gif" alt="Beast Gohan GIF" width="500"/>
+  <img src="gohan/Dragon Ball Super Super Hero Beast Gohan GIF - Dragon Ball Super Super Hero Beast Gohan Transformation - Scopri e condividi GIF.gif" alt="Beast Gohan GIF" width="500"/>
 </p>
 
 
