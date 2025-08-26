@@ -1,27 +1,53 @@
-# Hi, I'm AcE👋
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7DC6F&center=true&vCenter=true&width=435&lines=Student;Programmer;Gamer" alt="Typing SVG" />
+</h1>
 
-3rd Year Stuent
+---
 
-I'm a [your role] passionate about [your interests or expertise].  
-I enjoy building clean, efficient, and meaningful solutions.
+## 👋 Introduction
+- Hi, I'm **AcE**  
+- I'm learning the basics of **HTML, CSS, JavaScript** and exploring some libraries and frameworks  
+- My current tech stack includes: **HTML, CSS, JS, PHP, C++, Java, Python, Figma, XAMPP**  
 
-## 🔧 Tech Stack
+---
 
-- Languages: [e.g., JavaScript, Python, Go]
-- Frameworks: [e.g., React, Node.js, Django]
-- Tools: [e.g., Git, Docker, VS Code]
+## 🛠 Tech Stack
+<!-- You can replace or add more badges from https://shields.io -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-## 📈 Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=default)
+## 🎮 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-## 🌱 Currently Learning
+---
 
-- [e.g., Rust, DevOps, AI tools]
+## 🚀 Projects Showcase
+- 🌱 **Agriculture System** – Task Management, Calendar, Worker Status, Overdue Tasks  
+- 💪 **Health Tracker System** – Track exercise, water, sleep, and calories  
+- 🌐 **Portfolio Website** – My first attempt at a personal site  
+- 📚 **Global Citizenship Case Study** – Research & presentation project  
 
-## 📫 Get in Touch
+---
 
-- Email: [your.email@example.com]
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+## 😆 Fun Section
+<!-- You can add GIFs, memes, or jokes here -->
+<!-- Example: ![fun gif](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) -->
+<!-- Or use readme-jokes: https://github.com/ABSphreak/readme-jokes -->
 
+---
+
+✨ Thanks for visiting my profile!
