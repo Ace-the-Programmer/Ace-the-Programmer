@@ -38,12 +38,12 @@
 ## 🚀 Projects Showcase
 - 🌱 **Agriculture System** – Task Management, Calendar, Worker Status, Overdue Tasks  
 - 💪 **Health Tracker System** – Track exercise, water, sleep, and calories  
-- 🌐 **Portfolio Website** – My first attempt at a personal site  
-- 📚 **Global Citizenship Case Study** – Research & presentation project  
+- 🌐 **Portfolio Website** – My first attempt at a personal site   
 
 ---
 
 ## 😆 Fun Section
+<div class="tenor-gif-embed" data-postid="26519661" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/beastgohan-gohanbeast-discord-anime-gohan-gif-26519661">Beastgohan Gohanbeast GIF</a>from <a href="https://tenor.com/search/beastgohan-gifs">Beastgohan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!-- You can add GIFs, memes, or jokes here -->
 <!-- Example: ![fun gif](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) -->
 <!-- Or use readme-jokes: https://github.com/ABSphreak/readme-jokes -->
