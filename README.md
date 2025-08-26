@@ -44,7 +44,10 @@
 ---
 
 ## 😆 Fun Section
-<div class="tenor-gif-embed" data-postid="26519661" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/beastgohan-gohanbeast-discord-anime-gohan-gif-26519661">Beastgohan Gohanbeast GIF</a>from <a href="https://tenor.com/search/beastgohan-gifs">Beastgohan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/n0m5FnYAmEYAAAAC/beastgohan-gohanbeast.gif" alt="Beast Gohan GIF" width="500"/>
+</p>
+
 <!-- You can add GIFs, memes, or jokes here -->
 <!-- Example: ![fun gif](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) -->
 <!-- Or use readme-jokes: https://github.com/ABSphreak/readme-jokes -->
