@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7DC6F&center=true&vCenter=true&width=435&lines=Student;Programmer;Gamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Student;Programmer;Gamer" alt="Typing SVG" />
 </h1>
 
 ---
