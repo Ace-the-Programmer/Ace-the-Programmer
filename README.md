@@ -45,7 +45,7 @@
 
 ## 😆 Fun Section
 <p align="center">
-  <img src="gif-drafts/gohan/Dragon Ball Super Super Hero Beast Gohan GIF - Dragon Ball Super Super Hero Beast Gohan Transformation - Scopri e condividi GIF.gif" alt="Beast Gohan GIF" width="500"/>
+  <img src="gif-drafts/gohan/beast-gohan.gif" alt="Beast Gohan GIF" width="500"/>
 </p>
 
 
