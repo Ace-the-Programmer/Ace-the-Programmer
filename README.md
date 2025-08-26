@@ -1,5 +1,7 @@
 # Hi, I'm AcE👋
 
+3rd Year Stuent
+
 I'm a [your role] passionate about [your interests or expertise].  
 I enjoy building clean, efficient, and meaningful solutions.
 
